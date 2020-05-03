@@ -9,7 +9,7 @@ const Post = ({ router }) => (
       eveniet sint dolorem in odit sed mollitia, eos rerum, quod saepe atque!
       qqqqqqqqqqqqqqqqqqqqqqq
       qqqqqqqqqqqqqqqqqqqqqqqq
-      qqqqqqqqqqqqqqqq
+      qqqqqqqqqqqqqqqqq
     </p>
   </Layout>
 );
