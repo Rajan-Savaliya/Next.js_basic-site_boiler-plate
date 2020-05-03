@@ -48,10 +48,10 @@ export default ({ children, title }) => (
         justify-content: space-around;
         padding: 1em;
         font-size: 1.2rem;
-        background: indigo;
+        background: orangered;
       }
       header a {
-        color: darkgrey;
+        color: black;
         text-decoration: none;
       }
       header a:hover {
