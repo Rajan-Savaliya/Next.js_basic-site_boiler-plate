@@ -12,7 +12,7 @@ const Post = ({ router }) => (
       qqqqqqqqqqqqqqqqqqqqqqqq
       qqqqqqqqqqqqqqqqqqqqqqqqqq
       qqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-      qqqqqqqqqqq
+      qqqqqqqqqqqqqqq
     </p>
   </Layout>
 );
