@@ -8,7 +8,7 @@ const Post = ({ router }) => (
       eaque! Ad explicabo eum cumque, voluptate quaerat perferendis eligendi
       eveniet sint dolorem in odit sed mollitia, eos rerum, quod saepe atque!
       qqqqqqqqqqqqqqqqqqqqqqq
-      qqqqqqq
+      qqqqqqqq
     </p>
   </Layout>
 );
